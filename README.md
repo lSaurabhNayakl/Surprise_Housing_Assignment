@@ -1,4 +1,4 @@
-# Project Name
+# Surprise Housing Model
 > This project involves building a regression model using regularization techniques to predict the actual value of prospective properties for Surprise Housing's entry into the Australian market.
 
 
